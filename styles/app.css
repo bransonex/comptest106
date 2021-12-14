@@ -1,0 +1,25 @@
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+#iImportant {
+    font-size: 30px;
+    color: black;
+    cursor: pointer;
+}
+
+.main-content {
+    display: flex;
+}
+
+.section-list {
+    flex: 5;
+    border: 1px solid purple;
+}
+
+.section-form {
+    flex: 3;
+    border: 1px solid cadetblue;
+}
